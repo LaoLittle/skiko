@@ -211,6 +211,7 @@ $dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/heightMode/#/Pointin
 $dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/isHintingEnabled/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-paragraph-style/is-hinting-enabled.html
 $dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/maxLinesCount/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-paragraph-style/max-lines-count.html
 $dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/strutStyle/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-paragraph-style/strut-style.html
+$dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/textIndent/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-paragraph-style/text-indent.html
 $dokka.location:org.jetbrains.skia.paragraph/ParagraphStyle/textStyle/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-paragraph-style/text-style.html
 $dokka.location:org.jetbrains.skia.paragraph/PlaceholderAlignment.ABOVE_BASELINE///PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-placeholder-alignment/-a-b-o-v-e_-b-a-s-e-l-i-n-e/index.html
 $dokka.location:org.jetbrains.skia.paragraph/PlaceholderAlignment.BASELINE///PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-placeholder-alignment/-b-a-s-e-l-i-n-e/index.html
@@ -297,6 +298,10 @@ $dokka.location:org.jetbrains.skia.paragraph/TextBox/equals/#kotlin.Any?/Pointin
 $dokka.location:org.jetbrains.skia.paragraph/TextBox/hashCode/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-box/hash-code.html
 $dokka.location:org.jetbrains.skia.paragraph/TextBox/rect/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-box/rect.html
 $dokka.location:org.jetbrains.skia.paragraph/TextBox/toString/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-box/to-string.html
+$dokka.location:org.jetbrains.skia.paragraph/TextIndent///PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-indent/index.html
+$dokka.location:org.jetbrains.skia.paragraph/TextIndent/TextIndent/#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-indent/-text-indent.html
+$dokka.location:org.jetbrains.skia.paragraph/TextIndent/firstLine/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-indent/first-line.html
+$dokka.location:org.jetbrains.skia.paragraph/TextIndent/restLine/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-indent/rest-line.html
 $dokka.location:org.jetbrains.skia.paragraph/TextStyle.Companion///PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-style/-companion/index.html
 $dokka.location:org.jetbrains.skia.paragraph/TextStyle///PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-style/index.html
 $dokka.location:org.jetbrains.skia.paragraph/TextStyle/TextStyle/#/PointingToDeclaration/skiko/org.jetbrains.skia.paragraph/-text-style/-text-style.html
@@ -1623,6 +1628,8 @@ $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeOffset/#kotlin.Floa
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makePaint/#org.jetbrains.skia.Paint?#org.jetbrains.skia.IRect?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-paint.html
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makePointLitDiffuse/#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Int#kotlin.Float#kotlin.Float#org.jetbrains.skia.ImageFilter?#org.jetbrains.skia.IRect?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-point-lit-diffuse.html
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makePointLitSpecular/#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Int#kotlin.Float#kotlin.Float#kotlin.Float#org.jetbrains.skia.ImageFilter?#org.jetbrains.skia.IRect?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-point-lit-specular.html
+$dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeRuntimeShader/#org.jetbrains.skia.RuntimeShaderBuilder#kotlin.Array[kotlin.String]#kotlin.Array[org.jetbrains.skia.ImageFilter?]/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-runtime-shader.html
+$dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeRuntimeShader/#org.jetbrains.skia.RuntimeShaderBuilder#kotlin.String#org.jetbrains.skia.ImageFilter?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-runtime-shader.html
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeSpotLitDiffuse/#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Int#kotlin.Float#kotlin.Float#org.jetbrains.skia.ImageFilter?#org.jetbrains.skia.IRect?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-spot-lit-diffuse.html
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeSpotLitSpecular/#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Int#kotlin.Float#kotlin.Float#kotlin.Float#org.jetbrains.skia.ImageFilter?#org.jetbrains.skia.IRect?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-spot-lit-specular.html
 $dokka.location:org.jetbrains.skia/ImageFilter.Companion/makeTile/#org.jetbrains.skia.Rect#org.jetbrains.skia.Rect#org.jetbrains.skia.ImageFilter?/PointingToDeclaration/skiko/org.jetbrains.skia/-image-filter/-companion/make-tile.html
@@ -1692,6 +1699,14 @@ $dokka.location:org.jetbrains.skia/Matcher/Matcher/#Regex#kotlin.CharSequence/Po
 $dokka.location:org.jetbrains.skia/Matcher/Matcher/#kotlin.text.Regex#kotlin.CharSequence/PointingToDeclaration/skiko/org.jetbrains.skia/-matcher/-matcher.html
 $dokka.location:org.jetbrains.skia/Matcher/group/#kotlin.Int/PointingToDeclaration/skiko/org.jetbrains.skia/-matcher/group.html
 $dokka.location:org.jetbrains.skia/Matcher/matches/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matcher/matches.html
+$dokka.location:org.jetbrains.skia/Matrix22.Companion///PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/-companion/index.html
+$dokka.location:org.jetbrains.skia/Matrix22.Companion/IDENTITY/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/-companion/-i-d-e-n-t-i-t-y.html
+$dokka.location:org.jetbrains.skia/Matrix22///PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/index.html
+$dokka.location:org.jetbrains.skia/Matrix22/Matrix22/#kotlin.FloatArray/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/-matrix22.html
+$dokka.location:org.jetbrains.skia/Matrix22/equals/#kotlin.Any?/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/equals.html
+$dokka.location:org.jetbrains.skia/Matrix22/hashCode/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/hash-code.html
+$dokka.location:org.jetbrains.skia/Matrix22/mat/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/mat.html
+$dokka.location:org.jetbrains.skia/Matrix22/toString/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix22/to-string.html
 $dokka.location:org.jetbrains.skia/Matrix33.Companion///PointingToDeclaration/skiko/org.jetbrains.skia/-matrix33/-companion/index.html
 $dokka.location:org.jetbrains.skia/Matrix33.Companion/IDENTITY/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix33/-companion/-i-d-e-n-t-i-t-y.html
 $dokka.location:org.jetbrains.skia/Matrix33.Companion/makeRotate/#kotlin.Float#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix33/-companion/make-rotate.html
@@ -1717,6 +1732,7 @@ $dokka.location:org.jetbrains.skia/Matrix44/Matrix44/#kotlin.FloatArray/Pointing
 $dokka.location:org.jetbrains.skia/Matrix44/asMatrix33/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix44/as-matrix33.html
 $dokka.location:org.jetbrains.skia/Matrix44/equals/#kotlin.Any?/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix44/equals.html
 $dokka.location:org.jetbrains.skia/Matrix44/hashCode/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix44/hash-code.html
+$dokka.location:org.jetbrains.skia/Matrix44/mat/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix44/mat.html
 $dokka.location:org.jetbrains.skia/Matrix44/toString/#/PointingToDeclaration/skiko/org.jetbrains.skia/-matrix44/to-string.html
 $dokka.location:org.jetbrains.skia/MipmapMode.LINEAR///PointingToDeclaration/skiko/org.jetbrains.skia/-mipmap-mode/-l-i-n-e-a-r/index.html
 $dokka.location:org.jetbrains.skia/MipmapMode.NEAREST///PointingToDeclaration/skiko/org.jetbrains.skia/-mipmap-mode/-n-e-a-r-e-s-t/index.html
@@ -2130,6 +2146,22 @@ $dokka.location:org.jetbrains.skia/RuntimeEffect.Companion/makeForColorFilter/#k
 $dokka.location:org.jetbrains.skia/RuntimeEffect.Companion/makeForShader/#kotlin.String/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-effect/-companion/make-for-shader.html
 $dokka.location:org.jetbrains.skia/RuntimeEffect///PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-effect/index.html
 $dokka.location:org.jetbrains.skia/RuntimeEffect/makeShader/#org.jetbrains.skia.Data?#kotlin.Array[org.jetbrains.skia.Shader?]?#org.jetbrains.skia.Matrix33?#kotlin.Boolean/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-effect/make-shader.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder.Companion///PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/-companion/index.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder///PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/index.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/RuntimeShaderBuilder/#org.jetbrains.skia.RuntimeEffect/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/-runtime-shader-builder.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/child/#kotlin.String#org.jetbrains.skia.ColorFilter/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/child.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/child/#kotlin.String#org.jetbrains.skia.Shader/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/child.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Float#kotlin.Float#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Float#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#kotlin.Int/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#org.jetbrains.skia.Matrix22/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#org.jetbrains.skia.Matrix33/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
+$dokka.location:org.jetbrains.skia/RuntimeShaderBuilder/uniform/#kotlin.String#org.jetbrains.skia.Matrix44/PointingToDeclaration/skiko/org.jetbrains.skia/-runtime-shader-builder/uniform.html
 $dokka.location:org.jetbrains.skia/SamplingMode.Companion///PointingToDeclaration/skiko/org.jetbrains.skia/-sampling-mode/-companion/index.html
 $dokka.location:org.jetbrains.skia/SamplingMode.Companion/CATMULL_ROM/#/PointingToDeclaration/skiko/org.jetbrains.skia/-sampling-mode/-companion/-c-a-t-m-u-l-l_-r-o-m.html
 $dokka.location:org.jetbrains.skia/SamplingMode.Companion/DEFAULT/#/PointingToDeclaration/skiko/org.jetbrains.skia/-sampling-mode/-companion/-d-e-f-a-u-l-t.html
@@ -2255,6 +2287,17 @@ $dokka.location:org.jetbrains.skia/TextBlob.Companion/makeFromData/#org.jetbrain
 $dokka.location:org.jetbrains.skia/TextBlob.Companion/makeFromPos/#kotlin.ShortArray#kotlin.Array[org.jetbrains.skia.Point]#org.jetbrains.skia.Font?/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-companion/make-from-pos.html
 $dokka.location:org.jetbrains.skia/TextBlob.Companion/makeFromPosH/#kotlin.ShortArray#kotlin.FloatArray#kotlin.Float#org.jetbrains.skia.Font?/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-companion/make-from-pos-h.html
 $dokka.location:org.jetbrains.skia/TextBlob.Companion/makeFromRSXform/#kotlin.ShortArray#kotlin.Array[org.jetbrains.skia.RSXform]#org.jetbrains.skia.Font?/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-companion/make-from-r-s-xform.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run///PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/index.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run/Run/#org.jetbrains.skia.Typeface#kotlin.ShortArray/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/-run.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run/equals/#kotlin.Any?/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/equals.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run/glyphs/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/glyphs.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run/hashCode/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/hash-code.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter.Run/typeface/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-run/typeface.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter///PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/index.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter/TextBlobIter/#org.jetbrains.skia.TextBlob/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/-text-blob-iter.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter/hasNext/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/has-next.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter/next/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/next.html
+$dokka.location:org.jetbrains.skia/TextBlob.TextBlobIter/textBlob/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/-text-blob-iter/text-blob.html
 $dokka.location:org.jetbrains.skia/TextBlob///PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/index.html
 $dokka.location:org.jetbrains.skia/TextBlob/blockBounds/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/block-bounds.html
 $dokka.location:org.jetbrains.skia/TextBlob/bounds/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/bounds.html
@@ -2263,6 +2306,7 @@ $dokka.location:org.jetbrains.skia/TextBlob/firstBaseline/#/PointingToDeclaratio
 $dokka.location:org.jetbrains.skia/TextBlob/getIntercepts/#kotlin.Float#kotlin.Float#org.jetbrains.skia.Paint?/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/get-intercepts.html
 $dokka.location:org.jetbrains.skia/TextBlob/getIntercepts/#kotlin.Float#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/get-intercepts.html
 $dokka.location:org.jetbrains.skia/TextBlob/glyphs/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/glyphs.html
+$dokka.location:org.jetbrains.skia/TextBlob/iterator/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/iterator.html
 $dokka.location:org.jetbrains.skia/TextBlob/lastBaseline/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/last-baseline.html
 $dokka.location:org.jetbrains.skia/TextBlob/positions/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/positions.html
 $dokka.location:org.jetbrains.skia/TextBlob/serializeToData/#/PointingToDeclaration/skiko/org.jetbrains.skia/-text-blob/serialize-to-data.html
@@ -2332,11 +2376,10 @@ $dokka.location:org.jetbrains.skia/VertexMode///PointingToDeclaration/skiko/org
 $dokka.location:org.jetbrains.skia/WStream///PointingToDeclaration/skiko/org.jetbrains.skia/-w-stream/index.html
 $dokka.location:org.jetbrains.skia/WStream/WStream/#org.jetbrains.skia.impl.NativePointer#org.jetbrains.skia.impl.NativePointer#kotlin.Boolean/PointingToDeclaration/skiko/org.jetbrains.skia/-w-stream/-w-stream.html
 $dokka.location:org.jetbrains.skia/WStream/WStream/#org.jetbrains.skia.impl.NativePointer#org.jetbrains.skia.impl.NativePointer/PointingToDeclaration/skiko/org.jetbrains.skia/-w-stream/-w-stream.html
-$dokka.location:org.jetbrains.skiko.redrawer////PointingToDeclaration/skiko/org.jetbrains.skiko.redrawer/index.html
-$dokka.location:org.jetbrains.skiko.redrawer//MainUIDispatcher/#/PointingToDeclaration/skiko/org.jetbrains.skiko.redrawer/-main-u-i-dispatcher.html
 $dokka.location:org.jetbrains.skiko.wasm////PointingToDeclaration/skiko/org.jetbrains.skiko.wasm/index.html
 $dokka.location:org.jetbrains.skiko.wasm//onWasmReady/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/skiko/org.jetbrains.skiko.wasm/on-wasm-ready.html
 $dokka.location:org.jetbrains.skiko////PointingToDeclaration/skiko/org.jetbrains.skiko/index.html
+$dokka.location:org.jetbrains.skiko//MainUIDispatcher/#/PointingToDeclaration/skiko/org.jetbrains.skiko/-main-u-i-dispatcher.html
 $dokka.location:org.jetbrains.skiko//currentSystemTheme/#/PointingToDeclaration/skiko/org.jetbrains.skiko/current-system-theme.html
 $dokka.location:org.jetbrains.skiko//disableTitleBar/org.jetbrains.skiko.SkiaLayer#kotlin.Float/PointingToDeclaration/skiko/org.jetbrains.skiko/disable-title-bar.html
 $dokka.location:org.jetbrains.skiko//hostArch/#/PointingToDeclaration/skiko/org.jetbrains.skiko/host-arch.html
@@ -2390,6 +2433,7 @@ $dokka.location:org.jetbrains.skiko/AwtFontManager.Companion/DEFAULT/#/PointingT
 $dokka.location:org.jetbrains.skiko/AwtFontManager///PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/index.html
 $dokka.location:org.jetbrains.skiko/AwtFontManager/AwtFontManager/#kotlin.Array[kotlin.String]/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/-awt-font-manager.html
 $dokka.location:org.jetbrains.skiko/AwtFontManager/addCustomPath/#kotlin.String/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/add-custom-path.html
+$dokka.location:org.jetbrains.skiko/AwtFontManager/addResourceFont/#kotlin.String#java.lang.ClassLoader/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/add-resource-font.html
 $dokka.location:org.jetbrains.skiko/AwtFontManager/allFontsCached/#/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/all-fonts-cached.html
 $dokka.location:org.jetbrains.skiko/AwtFontManager/findAvailableFontFile/#java.awt.Font/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/find-available-font-file.html
 $dokka.location:org.jetbrains.skiko/AwtFontManager/findFontFamilyFile/#kotlin.String/PointingToDeclaration/skiko/org.jetbrains.skiko/-awt-font-manager/find-font-family-file.html
@@ -2828,6 +2872,5 @@ org.jetbrains.skia.skottie
 org.jetbrains.skia.sksg
 org.jetbrains.skia.svg
 org.jetbrains.skiko
-org.jetbrains.skiko.redrawer
 org.jetbrains.skiko.wasm
 
